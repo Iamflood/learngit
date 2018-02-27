@@ -51,5 +51,8 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
         Log.e("问", object1.toString() );
+        /*
+        * 一版本
+        * */
     }
 }
